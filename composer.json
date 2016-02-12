@@ -1,0 +1,16 @@
+{
+  "name": "chrico/comment-blacklist",
+  "description": "Adding/removing dynamically the IP of an Spam comment to WordPress-Blacklist.",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Chris",
+      "email": "chris@chrico.info",
+      "homepage": "https://www.chrico.info",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.0"
+  }
+}
